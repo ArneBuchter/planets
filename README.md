@@ -4,3 +4,4 @@ List of planets
 * Venus
 * Earth
 * Mars
+* Jupiter
